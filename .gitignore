@@ -1,4 +1,3 @@
 __pycache__
 .venv
-
-README.md
+db.sqlite3
