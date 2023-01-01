@@ -12,7 +12,7 @@ All data already in inputted in the SQLite database was made with mock-ups from 
 - [SQLAlchemy](https://www.sqlalchemy.org/)
 
 ## **Video Explanation of the Project**
-[Redirect to YouTube](https://www.youtube.com/watch?v=YOUTUBE_VIDEO_ID_HERE)
+[Redirect to YouTube](https://youtu.be/FMpTE5W_TDY)
 
 ## **General Explanation of the Project**
 
